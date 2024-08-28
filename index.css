@@ -1,0 +1,35 @@
+.main{
+    background-image: url(/images/vc2.jfif);
+    background-size: cover;
+    display: flex;
+    position: relative;
+}
+img{
+    height: 500px;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 620px;
+    border-radius: 20px;
+}
+.content1{
+    display: flex;
+    position: absolute;
+    right: 570px;
+    margin-top: 80px;
+    
+}
+.content2{
+    display: flex;
+    margin-top: 280px;
+    position: absolute;
+    right: 570px;
+}
+p{
+    margin-left: 30px;
+    margin-top: 20px;
+    height:100px;
+    width: 230px;
+    background-color: white;
+    padding-top: 70px;
+    text-align-last: center;
+}
